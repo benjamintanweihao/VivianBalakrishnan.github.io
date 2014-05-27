@@ -1,0 +1,11 @@
+# Site settings
+title: Vivian Balakrishnan
+email: Vivian@Balakrishnan.sg
+description: People, Values, Thoughts, Activities
+baseurl: ""
+url: "http://Vivian.Balakrishnan.Sg"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+pygments: true
