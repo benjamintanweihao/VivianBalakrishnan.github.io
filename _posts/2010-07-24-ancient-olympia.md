@@ -3,10 +3,7 @@ title: Ancient Olympia
 author: admin
 layout: post
 permalink: /2010/07/24/ancient-olympia/
-posterous_8a63df1deb6976f4a6730ec8f9dbeb95_post_id:
-  - 24006169
-posterous_8a63df1deb6976f4a6730ec8f9dbeb95_permalink:
-  - http://vivian.balakrishnan.sg/ancient-olympia
+
 categories:
   - Uncategorized
 ---
@@ -21,4 +18,3 @@ categories:
 <img src="http://vivian.balakrishnan.sg/wp-content/uploads/2010/07/2010-07-22_18.51.32.jpg.scaled.1000-300x225.jpg" alt="2010-07-22_18" />
 <img src="http://vivian.balakrishnan.sg/wp-content/uploads/2010/07/2010-07-22_18.51.54.jpg.scaled.1000-300x225.jpg" alt="2010-07-22_18" /></p>
 
-<p><a href="http://vivian.balakrishnan.sg/ancient-olympia">See the full gallery on Posterous</a></p>
