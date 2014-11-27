@@ -5,7 +5,7 @@ published: true
 ## Eulogy for Professor Arthur Lim
 
 
-<p>We gather here with deep gratitude and affection to celebrate the life of Professor Arthur Lim – a man who restored sight to so many and transformed our lives. Like all of you, I can say with absolute certainty that my life’s trajectory would have been very different if not for Arthur. For 30 years, he was always there for me at almost every single significant turning point in my life.
+We gather here with deep gratitude and affection to celebrate the life of Professor Arthur Lim – a man who restored sight to so many and transformed our lives. Like all of you, I can say with absolute certainty that my life’s trajectory would have been very different if not for Arthur. For 30 years, he was always there for me at almost every single significant turning point in my life.
 
 I first met Prof Lim when I was a medical student. Everybody seemed in awe of this dashing, confident, driven and brilliant man. We knew he was very successful in private practice, but there was something unique about his attitude to wealth and success. He was very ambitious, but power, money and fame were not ends in themselves, but merely the means to pursue more meaningful and significant goals in life.
 
