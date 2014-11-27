@@ -2,7 +2,7 @@
 published: true
 ---
 
-## Eulogy for Professor Arthur Lim
+# Eulogy for Professor Arthur Lim
 
 
 <p>We gather here with deep gratitude and affection to celebrate the life of Professor Arthur Lim – a man who restored sight to so many and transformed our lives. Like all of you, I can say with absolute certainty that my life’s trajectory would have been very different if not for Arthur. For 30 years, he was always there for me at almost every single significant turning point in my life.</p>
