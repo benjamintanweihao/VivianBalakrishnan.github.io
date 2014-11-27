@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Eulogy for Professor Arthur Lim
@@ -32,4 +32,3 @@ The past few months, and especially the last few days have been quite traumatic 
 I am glad he is now at rest. On the last evening, I held both his hands tightly and told him that God would lift the burden from him. Dr Ang Beng Chong ministered to him and prayed with him. I am glad the burden has been lifted – although I suspect he is now causing an upheaval in heaven because the status quo is never good enough for Arthur.
 
 I bid our mentor, our leader, our teacher and our friend farewell for now. The most important measure of a man’s lifetime achievements is not just the sum of all the work he himself has done – of the thousands of cataracts he has removed or the hundreds of thousands of patients he has touched. The real test of a man’s legacy is the people, the institutions, the systems that will persist and grow long after he has left the scene. He has given us so much, and it is now our duty to pay it forward. We promise we will never forget the lessons you taught us, we will continue to build the institutions you started, we will transmit your legacy to the future generations of doctors and patients. May God bless your soul and your extended family. And may we all thank God for the privilege of being part of his life.
-
