@@ -1,4 +1,7 @@
 ---
+author: Vivian.Balakrishnan
+layout: post
+permalink: /2014/9/3/Eulogy-for-Professor-Arthur-Lim/
 published: true
 ---
 
