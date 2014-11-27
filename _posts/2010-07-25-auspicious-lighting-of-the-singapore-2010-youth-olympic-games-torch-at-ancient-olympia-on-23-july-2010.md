@@ -6,12 +6,9 @@ author: admin
 layout: post
 permalink:
   /2010/07/25/auspicious-lighting-of-the-singapore-2010-youth-olympic-games-torch-at-ancient-olympia-on-23-july-2010/
-posterous_8a63df1deb6976f4a6730ec8f9dbeb95_post_id:
-  - 24050153
-posterous_8a63df1deb6976f4a6730ec8f9dbeb95_permalink:
-  - http://vivian.balakrishnan.sg/auspicious-lighting-of-the-singapore-2010-you
+
 categories:
-  - Uncategorized
+  - YOG
 tags:
   - YOG
 ---
