@@ -37,6 +37,6 @@ What are the physical and technical pre-requisites?  We certainly need world-lea
 
 We do not have all the answers.  But I do know that there is so much to be done, and so little time. Join us for the ride of our lifetime. Success is not guaranteed, but it will be exhilarating as we create a working model of the future together - Empowering Everyone Everything Everywhere.
 
-IDA's Smart Nation video: <a href="https://www.youtube.com/watch?v=FYBPzJdNgmU"></a>
+ <a href="https://www.youtube.com/watch?v=FYBPzJdNgmU">IDA's Smart Nation video:</a>
 
-#SmartNation #buildSG
+A #SmartNation #buildSG
