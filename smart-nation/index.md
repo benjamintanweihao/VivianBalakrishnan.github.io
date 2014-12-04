@@ -17,7 +17,7 @@ On the other hand, if we do it right we can secure our future, enhance our quali
 
 The key point is that this is all about people, not machines.
 
-PM Lee Hsien Loong has just launched our Smart Nation Initiative. http://bit.ly/1xrtFjk/ I am thrilled to have the opportunity to help deliver his vision for our nation.
+PM Lee Hsien Loong has just launched our Smart Nation Initiative. <a href="http://bit.ly/1xrtFjk"> I am thrilled to have the opportunity to help deliver his vision for our nation.</a>
 
 Smart Nation is not just another Government plan or committee. We can only succeed if the public, private and people sectors co-create the vision and work together to make it happen. Our team will engage ALL stakeholders over coming months.
 
@@ -37,6 +37,6 @@ What are the physical and technical pre-requisites?  We certainly need world-lea
 
 We do not have all the answers.  But I do know that there is so much to be done, and so little time. Join us for the ride of our lifetime. Success is not guaranteed, but it will be exhilarating as we create a working model of the future together - Empowering Everyone Everything Everywhere.
 
-IDA's Smart Nation video: https://www.youtube.com/watch?v=FYBPzJdNgmU
+IDA's Smart Nation video: <a href="https://www.youtube.com/watch?v=FYBPzJdNgmU"></a>
 
 #SmartNation #buildSG
