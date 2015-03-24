@@ -13,7 +13,7 @@ categories:
 
 # Never again in our lifetime will one man’s values and vision have such an impact on a people and a place.
 
-![](/http://vivian.balakrishnan.sg/wp-content/uploads/2015/03/IMG_6062.jpg)
+<img src="/wp-content/uploads/2015/03/IMG_6062.jpg" alt="Drawing" style="width: 400px;"/>
 
 Friends, ladies and gentlemen,
 
