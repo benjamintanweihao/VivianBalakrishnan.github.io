@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: Vivian.Balakrishnan
 layout: post
 permalink: "/2015/03/23/one-man's-values-and-vision/"
@@ -55,4 +55,4 @@ And so it is a difficult day because our bright light has gone off. But it is al
 
 So I want to thank the students and organisers for this event. Even as we mark your event, I hope you will appreciate that this in fact part of a larger vision and a longer narrative. And as we do so, let us remember our founding Prime Minister, Mr Lee Kuan Yew. 
 
-Thank you all very much. 
+Thank you all very much.
