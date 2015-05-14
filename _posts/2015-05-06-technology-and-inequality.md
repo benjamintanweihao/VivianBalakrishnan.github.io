@@ -1,8 +1,9 @@
 ---
 published: true
+title: 'Technology and Inequality'
 author: Vivian.Balakrishnan
 layout: post
-permalink: "/2015/05/06/technology-and-inequality/"
+permalink: /2015/05/06/technology-and-inequality/
 categories: 
   - Smart Nation
   - Computers
