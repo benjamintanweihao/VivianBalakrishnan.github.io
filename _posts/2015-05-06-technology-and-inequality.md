@@ -1,4 +1,5 @@
 ---
+published: true
 title: 'Technology and Inequality'
 author: Vivian.Balakrishnan
 layout: post
