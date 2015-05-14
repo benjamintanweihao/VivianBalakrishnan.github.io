@@ -1,5 +1,4 @@
 ---
-
 title: 'Technology and Inequality'
 author: Vivian.Balakrishnan
 layout: post
@@ -20,7 +19,7 @@ Prof Arnaud De Meyer, our host,
 Friends, Ladies and Gentlemen
 
 
-<p>1.	It’s always a challenge for an ophthalmologist, an eye surgeon, to address an audience like this, who knows far more than me about financial services and financial institutions. </p>
+1.	It’s always a challenge for an ophthalmologist, an eye surgeon, to address an audience like this, who knows far more than me about financial services and financial institutions.
 
 2.	Mr Stephen Aguilar-Milan is a futurist with the World Futures Society, and he has a hypothesis that every 50 years or so, there is a major technological wave. My hypothesis is that every time there is major technological wave, you have a period of intense disruption, a period of increased opportunities, a period of great inequality and robber barons, and it takes some time before the middle class adopts the same technologies and creates more wide spread prosperity. My thesis tonight is that we are in the midst of such a wave. 
 
