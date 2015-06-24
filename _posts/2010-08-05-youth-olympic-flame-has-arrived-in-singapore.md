@@ -19,4 +19,4 @@ tags:
 <img src="http://vivian.balakrishnan.sg/wp-content/uploads/2010/08/IMG_00271.jpg.scaled.1000-300x224.jpg" alt="Img_00271" />
 <img src="http://vivian.balakrishnan.sg/wp-content/uploads/2010/08/IMG_00311.jpg.scaled.1000-300x224.jpg" alt="Img_00311" /></p>
 
-<p><a href="http://vivian.balakrishnan.sg/youth-olympic-flame-has-arrived-in-singapore">See the full gallery on Posterous</a></p>
+
