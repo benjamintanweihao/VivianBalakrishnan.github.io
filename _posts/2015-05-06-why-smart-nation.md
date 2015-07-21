@@ -1,6 +1,6 @@
 ---
 published: true
-title: Why Smart Nation? Because we have to ride a new wave of technology every fifty years
+title: Why a Smart Nation? Because we have to ride a new wave of technology every fifty years
 author: Vivian.Balakrishnan
 layout: post
 permalink: /2015/05/06/Why-Smart-Nation/
