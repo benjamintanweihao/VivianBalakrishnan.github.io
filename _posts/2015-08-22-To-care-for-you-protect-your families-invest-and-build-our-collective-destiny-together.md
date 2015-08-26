@@ -7,6 +7,9 @@ permalink: /2015/08/22/To-care-for-you-protect-your families-invest-and-build-ou
 categories: 
   - Politics
 ---
+
+<img src="/wp-content/uploads/2015/08/trust.jpg" alt="Drawing" style="width: 400px;"/>
+
 To care for you, protect your families, invest and build our collective destiny together - Sim Ann, Liang Eng Hwa, Christopher de Souza and I promise, as we have just announced that we will stand for election in Holland-Bukit Timah GRC. Dr Teo Ho Pin will stand again in Bukit Panjang SMC.
 
 Dr Teo has served in Bukit Panjang for almost twenty years, most of which as Chairman of the Town Council. He is also been Mayor of North West CDC. He knows everyone, every nook and cranny of his constituency and indeed our entire GRC. Both he and I have been here since the original formation of the GRC in 2001.
