@@ -7,7 +7,7 @@ permalink: /2016/03/24/In-memoriam-GD-Balakrishnan-and-Helen-Ong-Yong-Sang/
 categories:
   - Family
 ---
-
+<img src="/wp-content/uploads/2016/03/dad_mum_Alaska.jpg" alt="Drawing" style="width: 400px;"/>
 
 
 In memoriam GD Balakrishnan (1930-2016) & Helen Ong Yong Sang (1928-1998)
