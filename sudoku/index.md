@@ -1,5 +1,5 @@
 ---
-title: About
+title: Sudoku
 author: Vivian.Balakrishnan
 layout: page
 ---
